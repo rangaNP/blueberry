@@ -1,0 +1,21 @@
+{
+  "name": "blueberry",
+  "displayName": "Blueberry",
+  "description": "Meet the Blue!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blueberry",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blueberry-color-theme.json"
+      }
+    ]
+  }
+}
