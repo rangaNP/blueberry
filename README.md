@@ -1,4 +1,4 @@
-# Blueberry Theme
+# Blueberry Night Theme
 
 Blueberry is a dark VS Code theme built around deep navy backgrounds with blueberry blue accents, plus balanced purple, mint, and rose token colors for clear syntax separation.
 
@@ -9,10 +9,22 @@ Blueberry is a dark VS Code theme built around deep navy backgrounds with bluebe
 - Language-aware semantic highlighting support for property tokens
 - Curated token palette for JavaScript/TypeScript, JSON, Markdown, HTML, and CSS
 
+## Screenshots
+
+Here is how the theme looks in action:
+
+![Screenshot of HTML/CSS](images/ss1.png)
+
+![Screenshot of JavaScript](images/ss2.png)
+
+![Screenshot of Theme UI 1](images/ss3.png)
+
+![Screenshot of Theme UI 2](images/ss4.png)
+
 ## Install
 
 1. Open Extensions in VS Code.
-2. Search for Blueberry.
+2. Search for Blueberry Night.
 3. Click Install.
 4. Open Command Palette and run Preferences: Color Theme.
 5. Select Blueberry.
