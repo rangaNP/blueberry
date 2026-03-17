@@ -19,7 +19,6 @@ Here is how the theme looks in action:
 
 ![Screenshot of Theme UI 3](images/ss3.png)
 
-![Screenshot of Theme UI 4](images/ss4.png)
 
 ## Install
 
