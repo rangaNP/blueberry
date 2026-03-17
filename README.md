@@ -1,16 +1,56 @@
-# blueberry README
+# Blueberry Theme
 
-## Working with Markdown
+Blueberry is a dark VS Code theme built around deep navy backgrounds with blueberry blue accents, plus balanced purple, mint, and rose token colors for clear syntax separation.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Highlights
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Deep, low-glare editor background tuned for long coding sessions
+- Strong UI consistency across tabs, side bar, activity bar, panel, and terminal
+- Language-aware semantic highlighting support for property tokens
+- Curated token palette for JavaScript/TypeScript, JSON, Markdown, HTML, and CSS
 
-## For more information
+## Install
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open Extensions in VS Code.
+2. Search for Blueberry.
+3. Click Install.
+4. Open Command Palette and run Preferences: Color Theme.
+5. Select Blueberry.
 
-**Enjoy!**
+## Recommended Settings
+
+These settings usually give the best visual result with Blueberry:
+
+```json
+{
+	"editor.semanticHighlighting.enabled": true,
+	"editor.fontLigatures": true,
+	"editor.minimap.enabled": false
+}
+```
+
+## Palette Direction
+
+- Base background: deep navy
+- Primary accent: blueberry blue
+- Secondary accent: cool purple
+- Contrast accent: mint/cyan
+- String accent: soft rose-brown
+
+## Scope Notes
+
+- DOM globals like document are tuned to blueberry blue.
+- Object keys and property reads are tuned for readability in large objects.
+- Control keywords are intentionally more purple to stand apart from identifiers.
+
+## Feedback
+
+Issues and suggestions are welcome. Please open an issue in the project repository with:
+
+- language/file sample
+- expected color behavior
+- screenshot (optional but helpful)
+
+## License
+
+MIT

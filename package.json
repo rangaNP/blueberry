@@ -2,7 +2,19 @@
   "name": "blueberry",
   "displayName": "Blueberry",
   "description": "Meet the Blue!",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "rangaNP",
+  "author": {
+    "name": "rangaNP"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rangaNP/blueberry.git"
+  },
+  "homepage": "https://github.com/rangaNP/blueberry#readme",
+  "bugs": {
+    "url": "https://github.com/rangaNP/blueberry/issues"
+  },
   "engines": {
     "vscode": "^1.110.0"
   },
