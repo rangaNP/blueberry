@@ -1,7 +1,7 @@
 # Dependencies
 node_modules/
 
-# Build/package outputs
+# Packaged artifacts
 *.vsix
 *.tgz
 

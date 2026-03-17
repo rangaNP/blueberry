@@ -1,8 +1,9 @@
 {
-  "name": "blueberry",
-  "displayName": "Blueberry",
+  "name": "blueberry-theme-ranganp",
+  "displayName": "Blueberry Dark",
   "description": "Meet the Blue!",
   "version": "1.0.0",
+  "license": "MIT",
   "publisher": "rangaNP",
   "author": {
     "name": "rangaNP"
