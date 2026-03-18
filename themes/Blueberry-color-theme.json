@@ -182,6 +182,32 @@
       }
     },
     {
+      "name": "C/C++ Include Directive",
+      "scope": [
+        "keyword.control.directive.include.c",
+        "keyword.control.directive.include.cpp",
+        "keyword.control.import.include.c",
+        "keyword.control.import.include.cpp",
+        "punctuation.definition.directive.c",
+        "punctuation.definition.directive.cpp"
+      ],
+      "settings": {
+        "foreground": "#af6acd"
+      }
+    },
+    {
+      "name": "C/C++ Include Delimiters",
+      "scope": [
+        "meta.preprocessor.include.c punctuation.definition.string.begin",
+        "meta.preprocessor.include.c punctuation.definition.string.end",
+        "meta.preprocessor.include.cpp punctuation.definition.string.begin",
+        "meta.preprocessor.include.cpp punctuation.definition.string.end"
+      ],
+      "settings": {
+        "foreground": "#a6515f"
+      }
+    },
+    {
       "name": "Tag",
       "scope": [
         "entity.name.tag",
