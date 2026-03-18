@@ -24,11 +24,6 @@
     "Themes"
   ],
   "contributes": {
-    "configurationDefaults": {
-      "editor.semanticHighlighting.enabled": true,
-      "editor.fontLigatures": true,
-      "editor.minimap.enabled": false
-    },
     "themes": [
       {
         "label": "Blueberry-Night",
