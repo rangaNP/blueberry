@@ -152,7 +152,6 @@
     {
       "name": "Operator, Misc",
       "scope": [
-        "constant.other.color",
         "punctuation",
         "meta.tag",
         "punctuation.definition.tag",
@@ -280,7 +279,6 @@
       "name": "Class, Support",
       "scope": [
         "entity.name",
-        "support.type",
         "support.class",
         "support.other.namespace.use.php",
         "meta.use.php",
@@ -380,7 +378,7 @@
       }
     },
     {
-      "name": "CSS ID's",
+      "name": "Sass Control Keywords",
       "scope": ["source.sass keyword.control"],
       "settings": {
         "foreground": "#76abff"
@@ -423,7 +421,13 @@
     },
     {
       "name": "URL",
-      "scope": ["*url*", "*link*", "*uri*"],
+      "scope": [
+        "markup.underline.link",
+        "markup.underline.link.markdown",
+        "string.other.link",
+        "string.other.link.description",
+        "constant.other.reference.link"
+      ],
       "settings": {
         "fontStyle": "underline"
       }
@@ -558,7 +562,8 @@
       "name": "Markdown - Heading",
       "scope": [
         "markdown.heading",
-        "markup.heading | markup.heading entity.name",
+        "markup.heading",
+        "markup.heading entity.name",
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {
@@ -640,25 +645,14 @@
       "name": "Markdown - Raw Block Fenced",
       "scope": ["markup.raw.block.fenced.markdown"],
       "settings": {
-        "foreground": "#0f172a80"
+        "foreground": "#dcecff"
       }
     },
     {
-      "name": "Markdown - Fenced Bode Block",
+      "name": "Markdown - Fenced Code Block",
       "scope": ["punctuation.definition.fenced.markdown"],
       "settings": {
         "foreground": "#0f172a80"
-      }
-    },
-    {
-      "name": "Markdown - Fenced Bode Block Variable",
-      "scope": [
-        "markup.raw.block.fenced.markdown",
-        "variable.language.fenced.markdown",
-        "punctuation.section.class.end"
-      ],
-      "settings": {
-        "foreground": "#dcecff"
       }
     },
     {
