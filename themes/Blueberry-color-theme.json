@@ -8,8 +8,7 @@
     "variable": "#86b8ff",
     "variable.defaultLibrary": "#76abff",
     "variable.declaration": "#a792ff",
-    "parameter": "#3884ff",
-    "parameter.declaration": "#3884ff"
+    "parameter": "#3884ff"
   },
   "colors": {
     "focusBorder": "#3f7dd6",
@@ -203,7 +202,7 @@
         "meta.preprocessor.include.cpp punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "#a6515f"
+        "foreground": "#be5381"
       }
     },
     {
@@ -253,8 +252,7 @@
         "constant.character",
         "constant.escape",
         "variable.parameter",
-        "keyword.other.unit",
-        "keyword.other"
+        "keyword.other.unit"
       ],
       "settings": {
         "foreground": "#3884ff"
@@ -267,12 +265,11 @@
         "constant.other.symbol",
         "constant.other.key",
         "entity.other.inherited-class",
-        "markup.heading",
         "markup.inserted.git_gutter",
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#a6515f"
+        "foreground": "#be5381"
       }
     },
     {
@@ -308,7 +305,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#86d6b9"
+        "foreground": "#00cbd9"
       }
     },
     {
@@ -373,22 +370,10 @@
     {
       "name": "Markup Text Content",
       "scope": [
-        "text.html",
-        "text.html.basic",
-        "text.html.derivative",
-        "meta.tag.any.html",
-        "meta.tag.inline.any.html",
-        "meta.tag.block.any.html",
-        "meta.tag.metadata.title.html",
-        "text.html.basic meta.tag.any.html",
-        "text.html.basic meta.tag.inline.any.html",
-        "text.html.basic meta.tag.block.any.html",
-        "text.html.basic meta.tag.metadata.title.html",
         "meta.jsx.children",
         "meta.jsx.children.tsx",
         "meta.jsx.children.jsx",
         "text.html.vue",
-        "text.html.vue meta.tag.any.html",
         "text.html.svelte"
       ],
       "settings": {
@@ -491,7 +476,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#8edcc3"
+        "foreground": "#00cbd9"
       }
     },
     {
