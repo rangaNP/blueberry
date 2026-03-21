@@ -2,6 +2,16 @@
   "name": "blueberry-theme-ranganp",
   "displayName": "Blueberry Night",
   "description": "Meet the Blue!",
+  "keywords": [
+    "theme",
+    "color theme",
+    "dark theme",
+    "dark blue",
+    "blue",
+    "blueberry",
+    "night",
+    "vscode theme"
+  ],
   "version": "1.4.11",
   "license": "MIT",
   "publisher": "rangaNP",
