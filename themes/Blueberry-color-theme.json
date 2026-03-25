@@ -4,7 +4,7 @@
   "semanticTokenColors": {
     "property": "#86b8ff",
     "property.defaultLibrary": "#76abff",
-    "property.declaration": "#8ed8c0",
+    "property.declaration": "#00cbd9",
     "variable": "#86b8ff",
     "variable.defaultLibrary": "#76abff",
     "variable.declaration": "#a792ff",
@@ -109,7 +109,8 @@
         "meta.object-literal.key.js",
         "meta.object-literal.key.ts",
         "variable.object.property",
-        "variable.other.property"
+        "variable.other.property",
+        "support.variable.property.js"
       ],
       "settings": {
         "foreground": "#86b8ff"
