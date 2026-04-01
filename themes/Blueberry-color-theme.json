@@ -16,7 +16,7 @@
     "descriptionForeground": "#9ab3cf",
     "errorForeground": "#ff6b8a",
     "editor.background": "#0c121d",
-    "editor.foreground": "#c9dbf2",
+    "editor.foreground": "#396effcc",
     "editorLineNumber.foreground": "#4e6686",
     "editorLineNumber.activeForeground": "#9ec1ff",
     "editorCursor.foreground": "#9ec1ff",
