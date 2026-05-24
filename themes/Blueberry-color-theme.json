@@ -67,7 +67,7 @@
     "tab.unfocusedInactiveBackground": "#0d1727",
     "tab.unfocusedInactiveForeground": "#627d9f",
     "tab.border": "#0c121d",
-    "titleBar.activeBackground": "#1a2f55",
+    "titleBar.activeBackground": "#0c121d",
     "titleBar.activeForeground": "#dcecff",
     "titleBar.inactiveBackground": "#1a2f55",
     "titleBar.inactiveForeground": "#6584aa",    
