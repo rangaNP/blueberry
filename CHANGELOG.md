@@ -2,6 +2,12 @@
 
 All notable changes to this project are documented in this file.
 
+## [2.2.0] - 2026-05-30
+
+### Improved
+
+- Matched title bar inactive color
+
 ## [2.0.0] - 2026-04-02
 
 ### Added
